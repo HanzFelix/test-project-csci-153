@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest_project_csci_153"]=self["webpackChunktest_project_csci_153"]||[]).push([[443],{381:function(t,c,e){e.r(c),e.d(c,{default:function(){return f}});var n=e(252);const s={class:"about"},r=(0,n._)("h1",null,"This is an about page",-1),u=[r];function a(t,c){return(0,n.wg)(),(0,n.iD)("div",s,u)}var i=e(744);const o={},_=(0,i.Z)(o,[["render",a]]);var f=_}}]);
+//# sourceMappingURL=about.53420a2a.js.map
